@@ -20,8 +20,8 @@ The project tackled three core questions:
 · Colab Notebook
 
 # Key Findings
-· Logistic regression achieved strong predictive accuracy on tournament matchup outcomes
-· Line disparity was found to be a statistically significant predictor of overall team quality — teams with a larger drop-off between their first and second lines consistently underperformed relative to their top-line talent
+· Probability model predicted win rates closely match observed outcomes across all buckets (AUC = 0.606)
+· Line disparity was not found to be a statistically significant predictor of overall team power
 · Power rankings revealed meaningful separation between tiers of teams not captured by raw standings
 
 # Repository Structure
